@@ -16,7 +16,7 @@ namespace config;
 
 class data {
     
-    const APIKEY = '9db460c1c6f3485a9efe7b9e6fda33de'; //TMDB API KEY->https://www.themoviedb.org/settings/api
+    const APIKEY = ''; //TMDB API KEY->https://www.themoviedb.org/settings/api
     const DB_HOST = '';
     const DB_NAME = '';
     const DB_USER = '';
